@@ -4,5 +4,5 @@ Welcome to the Skalafy GitHub repository! We are a passionate team of software e
 
 ### Open Source Projects
 
-- [https://github.com/Skalafy/aura-react-native-app](https://github.com/Skalafy/aura-react-native-app)
-- [https://github.com/Skalafy/food-ordering-app](https://github.com/Skalafy/food-ordering-app)
+- [https://github.com/Skalafy/aura-react-native-app](https://github.com/Skalafy/aura-react-native-app) - React Native / AppWrite / JS
+- [https://github.com/Skalafy/food-ordering-app](https://github.com/Skalafy/food-ordering-app) - React Native / Supabase / TS
